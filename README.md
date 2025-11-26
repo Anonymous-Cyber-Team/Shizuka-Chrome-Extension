@@ -12,7 +12,7 @@
 
 এই এক্সটেনশনটি ব্যবহার করার জন্য নিচের ধাপগুলো অনুসরণ করুন:
 
-1.  এই রিপোজিটরির **[Releases](https://github.com/YOUR_USERNAME/Shizuka-Chrome-Extension/releases)** সেকশনে যান।
+1.  এই রিপোজিটরির **[Releases](https://github.com/Anonymous-Cyber-Team/Shizuka-Chrome-Extension/releases/tag/v4.0)** সেকশনে যান।
 2.  সর্বশেষ ভার্সনের **`Shizuka-Chrome-Extension.zip`** ফাইলটি ডাউনলোড করুন।
 3.  ফাইলটি আনজিপ (Unzip/Extract) করুন।
 4.  গুগল ক্রোম ব্রাউজারে যান এবং এড্রেস বারে লিখুন: `chrome://extensions`
